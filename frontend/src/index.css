@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+@theme {
+  --color-lume-primary: #FFC107;
+  --color-lume-secondary: #FFA000;
+  --color-lume-bright: #FDD835;
+  --color-lume-light: #FFECB3;
+  --color-lume-dark: #131f37;
+}
