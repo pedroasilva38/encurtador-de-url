@@ -1,8 +1,9 @@
+import Header from "../components/Header"
 
 function MainPage() {
     return (
-        <div>
-            Hello
+        <div className="w-screen h-screen bg-lume-darker">
+            <Header />
         </div>    
     )
 }

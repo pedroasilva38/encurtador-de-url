@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
 @import "tailwindcss";
 
 @theme {
@@ -6,6 +6,7 @@
   --color-lume-secondary: #FFA000;
   --color-lume-bright: #FDD835;
   --color-lume-light: #FFECB3;
-  --color-lume-dark: #131f37;
-  --default-font-family: "Roboto", sans-serif
+  --color-lume-dark: #1E2D4D;
+  --color-lume-darker: #131F37;
+  --default-font-family: "Inter", sans-serif;
 }
