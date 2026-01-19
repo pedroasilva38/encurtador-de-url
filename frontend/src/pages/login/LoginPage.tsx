@@ -4,7 +4,7 @@ import { Link } from "react-router-dom"
 import { z } from 'zod'
 import { zodResolver } from "@hookform/resolvers/zod"
 import { Eye, EyeClosed } from 'lucide-react'
-import lumeLogo from '../../public/lume-logo.png'
+import lumeLogo from '@/assets/lume-logo.png'
 
 const loginSchema = z.object({
     email: z.email("Endereço de email inválido"),

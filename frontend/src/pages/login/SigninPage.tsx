@@ -1,7 +1,7 @@
 import { Link } from "react-router-dom"
 import { useForm } from "react-hook-form"
 import { z } from 'zod'
-import lumeLogo from '../../public/lume-logo.png'
+import lumeLogo from '@/assets/lume-logo.png'
 import { zodResolver } from "@hookform/resolvers/zod"
 import { useEffect } from "react"
 
